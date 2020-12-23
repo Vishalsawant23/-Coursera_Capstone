@@ -1,2 +1,2 @@
 # -Coursera_Capstone
-This project will analysis and visualize the data of different neighbourhoods
+This project will analyse and visualize the data of different neighbourhoods
